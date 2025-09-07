@@ -108,7 +108,7 @@ const Navbar = () => {
           <div className="md:hidden">
             <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white shadow-lg rounded-md mt-2">
               <button
-                onClick={() => scrollToSection('home')}
+                onClick={() => scrollToSection('top')}
                 className="block w-full text-left text-gray-700 hover:text-blue-600 hover:bg-gray-50 px-3 py-2 rounded-md text-base font-medium transition-colors duration-200"
               >
                 Home
